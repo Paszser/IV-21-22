@@ -10,7 +10,7 @@ línea con tus iniciales.
 | <!-- Enlace de A P G --> | | |
 | <!-- Enlace de A E M --> | | |
 | <!-- Enlace de LuisArostegui --> | | |
-| <!-- Enlace de Paszser --> | | |
+| https://github.com/Paszser/IV/pull/2 | 0.0.1 | |
 | <!-- Enlace de Mapachana --> | | |
 | <!-- Enlace de IgnasiCR --> | | |
 | <!-- Enlace de eantoniocalo18 --> | | |
