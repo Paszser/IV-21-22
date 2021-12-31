@@ -13,7 +13,7 @@ línea con tus iniciales.
 | https://github.com/lentes4k/Proyecto-IV/pull/15 | 0.0.3 |✓ |
 | https://github.com/JAntonioVR/IV-2021-2022/pull/19 | 0.0.4 | ✓ |
 | https://github.com/morevi/jobcontrol/pull/43 | 0.0.4|✓ |
-| https://github.com/Parka015/SerieMotion-IV/pull/16 | 0.0.4 | |
+| https://github.com/Parka015/SerieMotion-IV/pull/16 | 0.0.4 | ✗ |
 | <!-- Enlace de C L A --> | | |
 | https://github.com/jesusmarzor/Peluqueria/pull/15 | 0.0.6 | ✓ |
 | https://github.com/Paszser/ComparerApp/pull/11 | 0.0.4 | ✓ |
@@ -23,7 +23,7 @@ línea con tus iniciales.
 | https://github.com/venrra/apiTrainer/pull/11 | 0.0.3 | ✓ |
 | [arguellesm](https://github.com/migueorg/SearchCulture/pull/10) | 0.0.3 |✓ |
 | <!-- Enlace de DFolchA --> | | |
-| <!-- Enlace de JaimeGM96 --> | | |
+| https://github.com/JaimeGM96/Practica-IV/pull/18 | 0.0.7 | ✓ |
 | [agr8](https://github.com/ismaelmontesinos/InmuVenta/pull/21)| 0.0.4 | ✓ |
 | https://github.com/paula1999/Tune-in/pull/13 | 0.0.4 | ✓ |
 | https://github.com/modejota/StoragIV/pull/18 | 0.0.3 | ✓ |
@@ -54,7 +54,7 @@ línea con tus iniciales.
 | [Albertotc99](https://github.com/Xileon310/IV-Project/pull/22) | 0.0.4 |✓ |
 | https://github.com/edusegrich/OpoTests/pull/19 | 0.0.3 | ✓ |
 | https://github.com/vlljuan99/gasolinapp/pull/15 | 0.0.3 | ✓ |
-| <!-- Enlace de xCyal --> | | |
+| https://github.com/xCyal/A-Tracker/pull/9 | 0.0.2 | |
 | [Pablont98](https://github.com/Pablont98/IV/pull/11) | 0.0.3 | ✓ |
 | https://github.com/josevilchez247/Odyssey/pull/18 | 0.0.4 | ✓ |
 | <!-- Enlace de pablozafra97 --> | | |

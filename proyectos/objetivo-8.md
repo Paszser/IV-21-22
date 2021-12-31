@@ -24,7 +24,7 @@
 | <!-- Enlace de lentes4k --> | | |
 | <!-- Enlace de joaquingv12 --> | | |
 | <!-- Enlace de gomares --> | | |
-| <!-- Enlace de modejota --> | | |
+| https://github.com/modejota/StoragIV/pull/35  | 0.0.12 | ✓ |
 | <!-- Enlace de argelion14 --> | | |
 | <!-- Enlace de juanmihdz --> | | |
 | <!-- Enlace de venrra --> | | |
@@ -38,7 +38,7 @@
 | <!-- Enlace de ismaelmontesinos --> | | |
 | <!-- Enlace de morevi --> | | |
 | <!-- Enlace de Pablont98 --> | | |
-| <!-- Enlace de Slowmybrosh --> | | |
+| https://github.com/Slowmybrosh/DietApp/pull/47 | 0.0.13 | ✓ |
 | <!-- Enlace de sorozcov --> | | |
 | <!-- Enlace de jlortega00 --> | | |
 | <!-- Enlace de Xileon310 --> | | |

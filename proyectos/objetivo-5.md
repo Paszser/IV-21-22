@@ -2,12 +2,12 @@
 
 | URL                                        | Versión | Alcanzado |
 |--------------------------------------------|---------|-----------|
-| <!-- Enlace de noise-kngdm --> | | |
+| [noise-kngdm](https://github.com/noise-kngdm/music-matcher/pull/26) | v0.3.1 | |
 | <!-- Enlace de Esturillo98 --> | | |
-| <!-- Enlace de LuisArostegui --> | | |
+| [LuisArostegui](https://github.com/LuisArostegui/MyWallet/pull/35) | 0.0.10 | |
 | https://github.com/Paszser/ComparerApp/pull/24 | 0.0.9 | |
 | https://github.com/Mapachana/Predictor-COVID/pull/19 | 0.0.9 | ✓ |
-| <!-- Enlace de eantoniocalo18 --> | | |
+| https://github.com/eantoniocalo18/IV/pull/36 | 0.0.11 | ✓ |
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
 | https://github.com/Balrrach/Instant-Eat/pull/22 | 0.0.17 | ✓ |
@@ -36,13 +36,13 @@
 | https://github.com/amerigal/gestor-recibos/pull/28 | 0.0.9 | ✓ |
 | https://github.com/Asmilex/IV/pull/23  | 0.1.9 | ✓ |
 | <!-- Enlace de ismaelmontesinos --> | | |
-| [morevi](https://github.com/morevi/jobcontrol/pull/58) | 0.0.6 | |
+| [morevi](https://github.com/morevi/jobcontrol/pull/58) | 0.0.6 |✓ |
 | https://github.com/Pablont98/recetas-iv/pull/38 | 0.0.8 | ✓ |
 | https://github.com/Slowmybrosh/DietApp/pull/36 | 0.0.5 | ✓ |
 | <!-- Enlace de sorozcov --> | | |
 | <!-- Enlace de jlortega00 --> | | |
-| [Xileon310](https://github.com/Xileon310/GoParty/pull/36) | 0.0.9 | |
-| <!-- Enlace de Parka015 --> | | |
+| [Xileon310](https://github.com/Xileon310/GoParty/pull/39) | 0.0.9 | ✓ |
+| https://github.com/Parka015/serie-motion/pull/21 | 0.0.9 | |
 | <!-- Enlace de edusegrich --> | | |
 | <!-- Enlace de LuisSS20 --> | | |
 | <!-- Enlace de juanfran00 --> | | |

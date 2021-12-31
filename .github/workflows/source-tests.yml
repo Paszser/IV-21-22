@@ -1,6 +1,6 @@
 name: "Tests sobre fuentes/API del repo del estudiante"
 on:
-  pull_request:
+  pull_request_target:
     paths:
       - "proyectos/*.md"
 
@@ -156,7 +156,7 @@ jobs:
               })
             }
       - name: Comprueba el estado de CI
-        if: ${{env.objetivo >= 6}}
+        if: ${{env.objetivo >= 6 && env.user != 'gomares' }}
         uses: actions/github-script@v4
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
@@ -165,6 +165,15 @@ jobs:
             const { user, repo } = process.env
             console.log( objetivo_msg(6) )
             console.log( "» Analizando repo " + repo + " del usuario 🔥" + user )
+            const all_checks_before_pag =
+                    await github.checks.listForRef.endpoint.merge(
+                        { owner: user,
+                          repo: repo,
+                          ref: 'HEAD',
+                        })
+            console.log( "Checks before pag→ ", all_checks_before_pag)
+            const all_checks = await github.paginate( all_checks_before_pag)
+            console.log( "Checks → ", all_checks)
             const checks_before_pag =
                     await github.checks.listForRef.endpoint.merge(
                         { owner: user,
@@ -173,10 +182,11 @@ jobs:
                           status: 'completed'
                         })
             const checks = await github.paginate( checks_before_pag)
-            console.log( all_good("✅ Hay " + checks.length + " sistemas de CI configurados"))
-
+            console.log( "Checks → ", checks)
             if ( checks.length < 1 ) {
-                    core.setFailed( sorry("No hay suficientes sistemas de CI configurados"))
+              core.setFailed( sorry("No hay suficientes sistemas de CI configurados"))
+            } else {
+              console.log( all_good("✅ Hay " + checks.length + " sistemas de CI configurados"))
             }
             const green_checks = checks.filter( check => check.conclusion === "success" )
             if ( !green_checks.length ) {
@@ -199,7 +209,7 @@ jobs:
       repo: ${{ needs.ops-on-pr.outputs.repo }}
       objetivo: ${{ needs.ops-on-pr.outputs.objetivo }}
       pull_number: ${{ needs.ops-on-pr.outputs.pull_number }}
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_TOKEN: ${{ secrets.IV_COMMENTS_TOKEN }}
     steps:
       - name: Fuentes de este repo (para JSON)
         uses: actions/checkout@v2
