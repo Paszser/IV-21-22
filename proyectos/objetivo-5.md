@@ -5,7 +5,7 @@
 | <!-- Enlace de noise-kngdm --> | | |
 | <!-- Enlace de Esturillo98 --> | | |
 | <!-- Enlace de LuisArostegui --> | | |
-| https://github.com/Paszser/ComparerApp/pull/24 | 0.0.8 | |
+| https://github.com/Paszser/ComparerApp/pull/24 | 0.0.9 | |
 | https://github.com/Mapachana/Predictor-COVID/pull/19 | 0.0.9 | ✓ |
 | <!-- Enlace de eantoniocalo18 --> | | |
 | <!-- Enlace de NachoCarher --> | | |
